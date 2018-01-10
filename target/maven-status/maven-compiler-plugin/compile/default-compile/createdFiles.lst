@@ -1,0 +1,16 @@
+com\happymmall\pojo\Order.class
+com\happymmall\dao\OrderMapper.class
+com\happymmall\dao\CartMapper.class
+com\happymmall\dao\OrderItemMapper.class
+com\happymmall\pojo\Shipping.class
+com\happymmall\pojo\Category.class
+com\happymmall\dao\PayInfoMapper.class
+com\happymmall\pojo\Cart.class
+com\happymmall\dao\CategoryMapper.class
+com\happymmall\dao\ShippingMapper.class
+com\happymmall\pojo\OrderItem.class
+com\happymmall\pojo\PayInfo.class
+com\happymmall\dao\UserMapper.class
+com\happymmall\pojo\User.class
+com\happymmall\pojo\Product.class
+com\happymmall\dao\ProductMapper.class
